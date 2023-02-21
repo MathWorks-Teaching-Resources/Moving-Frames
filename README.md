@@ -1,6 +1,6 @@
 # Moving Frames [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXX)
 
-**Curriculum Module**  
+**Curriculum Module created in collaboration with Xincheng Li, Graduate Research Assistant at University of Maryland Institute for Systems Research **  
 _Created with R2022. Compatible with R2022 and later releases._ 
 
 ## Description ##
