@@ -27,7 +27,7 @@ An interactive lesson on the definition of parametric equations, frames, and gro
 
 ## ##
 
-**`Fernet_Serret_Frame.mlx`**
+**`Frenet_Serret_Frame.mlx`**
 An interactive lesson on the Frenet Serret frame, which is the most commonly used and known moving frame method. Applications include generating trajectories using parameters like curvature and torsion in mechanical systems such as multi-link manipulators and unicycle models.
 
 <img src="Images/viviani_exp.gif" width="500"> 
